@@ -1,9 +1,9 @@
 Android CPU minergate(AMD+intel+mediatak6592) support
-Elgoritm:Eth(Ehereum) 
-Hash rate:4.3Gh/s
-Pool stratum://eth.pool.minergate.com
-Port:45791
-User name:afghanminercrayp@gmail.com
-Password:x
-Wallet address:
-Withrow:0.0045000
+Elgoritm: sha 256
+Hash rate: 50 TH/s
+Pool stratum://btc.poolbinance.com
+Port:1800
+User name:Bitcashmining.001
+Password:123456
+Wallet address: 1CY54LicrpdPfpsYJJgPFsJXXKV2yZ2bPv
+Withrow:0.0000005
